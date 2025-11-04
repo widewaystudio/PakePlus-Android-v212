@@ -161,9 +161,3 @@ pnpm run dev
 pnpm run build
 
 ```
-
-
-2. 💖If PakePlus has brought joy to your life, feel free to support it.
- <p align="center" style="display:flex; justify-content: flex-start;">
-    <img src="https://github.com/Sjj1024/PakePlus/raw/main/docs/static/imgs/sponsor.webp" width=620/>
- </p>
